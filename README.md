@@ -1,4 +1,4 @@
-# Trbalho_1_Processamento_de_Imagens
+# Trabalho_1_Processamento_de_Imagens
 Trabalho consiste em aplicar realces e filtro para aumentar a qualidade e a resolução da imagem.
 
 ## Questão 1
